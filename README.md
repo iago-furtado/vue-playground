@@ -47,6 +47,8 @@ Now that you have Vue CLI installed, you can create a new Vue.js project.
 
 - **Vetur Extension:**
   The Vetur extension supplies Vue.js language features (syntax highlighting, IntelliSense, snippets, formatting) to VS Code.
+- **Vue Language Features (Volar):**
+  Vue Language Features is a language support extension built for Vue, Vitepress and petite-vue. this is based on @vue/reactivity to calculate everything on-demand, to implement native TypeScript language service level performance.
 
 ## Install Vue Router:
 It's possible to create a router by choosing to configure it manually after running the project creation command, or it can also be done through the following steps:
